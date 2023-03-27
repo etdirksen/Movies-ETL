@@ -1,1 +1,1 @@
-# Movies: Exract, Transform, & Load
+# Movies: Extract, Transform, & Load
